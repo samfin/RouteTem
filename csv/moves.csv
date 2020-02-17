@@ -1,0 +1,145 @@
+name,type,synergy_type,class,damage,stamina,hold,priority
+Tenderness,neutral,,status,-,3,0,2
+Toxic Spores,toxic,,status,-,9,0,1
+King's Roar,neutral,,status,-,24,3,2
+Firewall,digital,,status,-,15,1,0
+Confiscate,neutral,,status,-,7,0,2
+Nimble,wind,,status,-,4,0,2
+Cage,neutral,,status,-,16,1,3
+Shy Shield,neutral,,status,-,4,0,3
+Stare,mental,,status,-,4,0,2
+Overclock,digital,,status,-,10,0,2
+Relax,neutral,,status,-,12,1,1
+Madness Buff,melee,,special,-,15,0,2
+Block,melee,,status,-,16,1,2
+Turbo Choreography,wind,wind,status,-,27,1,4
+Flood,water,earth,status,-,22,1,2
+Cooperation,neutral,,status,-,1,0,4
+Extinction,fire,,status,-,32,2,2
+Slime,neutral,,status,-,12,0,1
+Hypnosis,mental,,status,-,12,1,1
+Rage,melee,,status,-,10,1,2
+Lifeful Sap,nature,,status,-,12,0,2
+Revitalize,nature,nature,status,-,15,1,2
+Mirror Shell,crystal,,status,-,15,1,1
+Heat Up,fire,,status,-,23,0,2
+Diamond Fort,crystal,,status,-,26,2,1
+Bamboozle,mental,,status,-,16,0,2
+Footwork,melee,,status,-,15,1,3
+Misogi,water,water,status,-,22,2,2
+Pollution,toxic,,status,-,22,2,2
+Turbo Charge,electric,,status,-,21,1,4
+Sparks,electric,,status,-,5,0,2
+Bark Shield,nature,,status,-,30,2,1
+Show Off,melee,melee,status,-,7,0,2
+Intimidation,mental,,status,-,12,2,1
+Lullaby,mental,,status,-,27,2,1
+Gaia,nature,,status,-,15,3,0
+Cheer Up,neutral,,status,-,7,0,4
+Roar,neutral,,status,-,10,2,2
+Hallucination,toxic,mental,status,-,22,0,2
+Photosynthesis,nature,,status,-,7,0,2
+Stone Wall,earth,,status,-,18,1,1
+Crystallize,crystal,,status,-,18,1,2
+Antitoxins,toxic,,status,-,26,2,2
+Roots,nature,,status,-,5,0,2
+Paralysing Poison,toxic,toxic,status,-,20,2,2
+Psychic Collaborator,mental,mental,special,1,19,1,2
+Cold Breeze,wind,,special,10,9,0,2
+Scratch,neutral,,physical,20,4,0,2
+Peck,neutral,,physical,24,5,0,4
+Strangle,neutral,,physical,25,11,0,0
+Bubbles,water,,special,27,5,0,2
+Novice Punch,neutral,melee,physical,30,3,0,2
+Kick,neutral,,physical,32,8,0,3
+Glass Blade,crystal,,physical,32,5,0,2
+Finbeat,neutral,,physical,32,4,0,3
+Sand Splatter,earth,,physical,35,7,0,2
+DC Beam,electric,,special,35,5,0,3
+Spores,nature,,special,37,6,0,2
+Nibble,neutral,,physical,37,7,0,2
+Venomous Claws,toxic,,physical,40,9,0,2
+Wind Blade,wind,,special,40,9,0,2
+Perfect Jab,melee,,physical,40,15,0,2
+Urushiol,toxic,toxic,physical,41,8,0,2
+Shrill Voice,neutral,,special,42,12,1,2
+Energy Manipulation,mental,nature,special,45,11,0,3
+Fire Flame,fire,,special,45,7,0,2
+Data Burst,digital,,physical,48,6,0,0
+Chain Lightning,electric,,special,48,15,0,2
+High-pressure Water,water,fire,special,50,15,1,2
+Sharp Leaf,nature,,physical,50,7,0,2
+Rend,neutral,,special,50,22,2,2
+Tail Strike,neutral,,physical,50,5,1,2
+Toxic Slime,toxic,,physical,50,12,0,2
+Toxic Plume,toxic,crystal,special,50,24,1,2
+Tesla Prison,electric,,special,50,12,0,2
+Martial Strike,melee,,special,50,5,1,2
+Water Blade,water,,special,52,10,0,1
+Warm Cuddle,fire,,physical,53,12,0,2
+Ice Cubes,water,water,physical,54,13,0,2
+Mechanical Heat,fire,,physical,55,7,0,2
+Heavy Blow,neutral,,physical,58,11,0,2
+Allergic Spread,nature,,special,58,18,1,2
+Hyperkinetic Strike,wind,,special,59,28,1,3
+Tentacle Whip,neutral,,physical,60,15,0,2
+Ice Shuriken,water,,physical,60,14,0,2
+Crystal Dust,crystal,wind,special,60,11,0,3
+Jaw Strike,neutral,,physical,60,9,0,2
+Psy Wave,mental,,special,61,7,1,2
+Toxic Fang,toxic,,physical,62,12,1,2
+Embers,fire,,physical,63,15,0,2
+Rampage,neutral,melee,physical,65,26,1,1
+Aqua Bullet Hell,water,,special,67,17,0,2
+Magma Cannon,fire,,special,70,37,3,1
+Mud Shower,earth,,special,70,14,0,2
+Tsunami,water,wind,special,70,25,1,2
+Fierce Claw,neutral,,physical,71,13,0,2
+Meteor Swarm,fire,fire,physical,75,25,1,1
+Electric Storm,electric,,special,76,26,1,2
+Sharp Stabs,crystal,,physical,76,15,1,3
+Head Charge,melee,,physical,80,10,1,1
+Aqua Stone,water,earth,physical,80,21,1,2
+Uppercut,melee,,physical,80,12,0,2
+Toxic Ink,toxic,,physical,80,16,0,2
+Double Kick,neutral,,physical,80,22,0,3
+Telekinetic Shrapnel,mental,,physical,80,8,1,2
+Iced Stalactite,water,,physical,82,22,1,2
+Clinch,neutral,,physical,85,14,0,1
+Boomerang,wind,,physical,85,14,1,3
+Haito Uchi,melee,,physical,85,21,1,2
+Earth Wave,earth,,physical,90,28,2,1
+Wind Burst,wind,,special,90,12,0,2
+Humiliating Slap,neutral,,physical,90,20,0,2
+Awful Song,neutral,neutral,special,96,20,1,2
+Water Cannon,water,toxic,special,100,21,0,2
+Psy Surge,mental,,special,100,15,1,1
+Head Ram,neutral,,physical,100,17,0,1
+Feather Gatling,wind,,physical,100,17,0,2
+Beta Burst,mental,,special,100,23,0,2
+Noxious Bomb,toxic,,physical,100,20,0,2
+Chains Hit,neutral,,physical,110,16,0,2
+Multiple Pecks,neutral,,physical,110,26,0,2
+Crystal Spikes,crystal,,special,120,27,0,3
+Hypoxia,wind,,special,120,30,0,2
+Drill Impact,neutral,,physical,120,20,0,2
+Blizzard,wind,,special,120,15,1,1
+Water Cutting Lily,nature,water,physical,120,31,0,3
+Sharp Rain,water,,special,130,20,2,2
+Aquatic Whirlwind,water,,special,130,29,1,3
+Stone Ball,earth,fire,physical,130,29,0,1
+Crystal Bite,crystal,,physical,130,22,1,2
+Crystal Plume Gatling,crystal,,physical,130,24,0,2
+Ninja Jutsu,neutral,,physical,130,27,2,4
+Held Anger,neutral,,physical,130,12,3,1
+Dust Vortex,earth,,special,131,24,1,2
+Nicho Sai,melee,,physical,135,26,1,3
+Tornado,wind,,special,135,31,1,3
+Turbo attack,digital,fire,special,140,27,1,2
+Narcoleptic Hit,mental,,physical,140,15,1,1
+Fire Tornado,fire,,special,145,22,2,2
+Frond Whip,nature,,physical,146,28,1,1
+Major Slash,neutral,,physical,150,33,1,2
+Harmful Lick,neutral,,physical,150,29,0,1
+Oshi-Dashi,melee,,physical,150,28,1,2
+Inner Spirit,melee,,special,170,23,2,2
